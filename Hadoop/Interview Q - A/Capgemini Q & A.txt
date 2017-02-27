@@ -1,0 +1,19 @@
+Capgemini:
+===========
+1. Tell me about yourself?
+2. Explain your project?
+3. Write the command to transfer data from RDBMS to HDFS?
+4. Suppose there are 1000 tables in your database and you want tio transfer only 998 tables to HDFS. How can you da that?
+5. How does MapReduce work?
+6. How do you hide password while transferring data from RDBMS to HDFS using Sqoop?
+7. How do you remove 'tab' from a name using Pig?
+8. How do you use flume to transfer log files to HDFS?
+9. Difference betweeen Static and Dynamic partition?
+10. What is bucketing and in which scenaroi you would like to use it?
+11. How do you remove special characters from a name using pig?
+12. How many clusters you are using in your project?
+13. How do you check perfermance Tuning using hive?
+14. How large amount of data you have handled till now?
+15. How to write a UDF in hive?
+16. Difference between pig and hive?
+17. In which scenario you will use pig?
