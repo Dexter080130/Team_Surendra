@@ -1,0 +1,12 @@
+TCS:
+=====
+1. Tell me about yourself?
+2. Describe your project architecture?
+3. While transferrring tha data, how do you filter duplicates?
+4. How does MapReduce work?
+5. What is MapSide join?
+6. Difference between partitioning and bucketing?
+7. Why are you using bucketing rather using partitioning?
+8. What is managed table?
+9. Explain flume architecture?
+10. What is the size of your block?
