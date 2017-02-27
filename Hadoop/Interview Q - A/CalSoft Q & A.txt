@@ -1,0 +1,8 @@
+1. What is context object?
+2. What is the use of sqoop in java?
+3. How do u handle large amount of objects using sqoop?
+4. What is indexing in hdfs?
+5. What are the methods we use in reducer?
+6. When do you use incremental concept in sqoop? 
+7. Name the parameters in incremental concept?
+8. Overloading and over riding?
